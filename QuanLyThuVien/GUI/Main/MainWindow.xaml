@@ -1,0 +1,35 @@
+﻿<Window x:Class="QuanLyThuVien.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuanLyThuVien"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Sidebar -->
+        <StackPanel Background="#2C3E50">
+            <TextBlock Text="QUẢN LÝ THƯ VIỆN"
+                   Foreground="White"
+                   FontSize="16"
+                   Margin="10"/>
+
+            <Button Content="Dashboard" Height="40" Margin="5"/>
+            <Button x:Name="btnUser" Content="Quản lý User" Height="40" Margin="5"/>
+            <Button Content="Sách" Height="40" Margin="5"/>
+        </StackPanel>
+
+        <!-- Main Content -->
+        <Grid Grid.Column="1" Background="White">
+            <TextBlock Text="Trang chính"
+                   FontSize="24"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"/>
+        </Grid>
+    </Grid>
+</Window>
