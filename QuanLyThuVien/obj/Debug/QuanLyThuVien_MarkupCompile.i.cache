@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\
 QuanLyThuVien
 none
 false
 DEBUG;TRACE
-D:\.NET\QuanLyThuVien\QuanLyThuVien\App.xaml
-22052918896
-
-11-1196121775
-151397803362
-GUI\Auth\Login.xaml;GUI\Main\MainWindow.xaml;
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\App.xaml
+11496889352
+1-600760770
+10-911998540
+151937372271
+GUI\Login.xaml;
 
 False
 
