@@ -12,9 +12,7 @@ namespace QuanLyThuVien.DAL
         public static SqlConnection GetConnection()
         {
             return new SqlConnection(
-                @"Data Source=(localdb)\MSSQLLocalDB;
-                  Initial Catalog=QuanLyThuVienDB;
-                  Integrated Security=True");
+            @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=QuanLyThuVienDB;Integrated Security=True;");
         }
     }
 }

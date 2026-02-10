@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\.NET\QuanLyThuVien\QuanLyThuVien\App.xaml
-2-1962017348
-
-10-816155366
+22052918896
+2-1705661173
+10-353762408
 151397803362
-GUI\Login.xaml;GUI\MainWindow.xaml;
+GUI\Auth\Login.xaml;GUI\Main\MainWindow.xaml;
 
 False
 
