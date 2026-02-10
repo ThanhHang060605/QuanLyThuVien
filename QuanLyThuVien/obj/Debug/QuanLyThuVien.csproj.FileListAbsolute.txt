@@ -15,3 +15,22 @@ D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\Login.g.cs
 D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\MainWindow.g.cs
 D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\Login.baml
 D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\MainWindow.baml
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe.config
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\MainWindow.baml
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\Login.g.cs
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\MainWindow.g.cs
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\App.g.cs
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien_Content.g.cs
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien_MarkupCompile.cache
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien_MarkupCompile.lref
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\Login.baml
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.g.resources
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\ROG\OneDrive - The University of Technology\Máy tính\TrungKienNET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
