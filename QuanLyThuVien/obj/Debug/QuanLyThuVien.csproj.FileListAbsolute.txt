@@ -11,7 +11,28 @@ D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResou
 D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
 D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
 D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+<<<<<<< Updated upstream
 D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\Login.g.cs
 D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\MainWindow.g.cs
 D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\Login.baml
 D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\MainWindow.baml
+=======
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\Auth\Login.g.cs
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\Main\MainWindow.g.cs
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\App.g.cs
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien_Content.g.cs
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien_MarkupCompile.cache
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien_MarkupCompile.lref
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\Auth\Login.baml
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\GUI\Main\MainWindow.baml
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.g.resources
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+>>>>>>> Stashed changes

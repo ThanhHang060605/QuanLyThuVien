@@ -4,17 +4,26 @@
 winexe
 C#
 .cs
-D:\.NET\QuanLyThuVien\QuanLyThuVien\obj\Debug\
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\obj\Debug\
 QuanLyThuVien
 none
 false
 DEBUG;TRACE
+<<<<<<< Updated upstream
 D:\.NET\QuanLyThuVien\QuanLyThuVien\App.xaml
 2-1962017348
 
 10-816155366
 151397803362
 GUI\Login.xaml;GUI\MainWindow.xaml;
+=======
+D:\DTU\Nam3\CS_464\DOAN\QuanLyThuVien\QuanLyThuVien\App.xaml
+2-485632039
+2-1127522586
+10167754233
+151937372271
+GUI\Auth\Login.xaml;GUI\Main\MainWindow.xaml;
+>>>>>>> Stashed changes
 
 False
 
